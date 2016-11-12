@@ -50,3 +50,5 @@ end
 gem 'solidus'
 
 gem 'solidus_auth_devise'
+
+gem 'rails_12factor'
